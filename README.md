@@ -2,7 +2,7 @@
 _Balance your purchases. Consolidate spare change. Invest in others. **Make a change with your change.**_
 
 <br>
-A microfinance platform that helps individuals make microinvestments in others.
+A platform to help individuals make microinvestments in charitable causes.
 <br>
 
 <br>
