@@ -731,20 +731,18 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Gatsby Starter - Dimension V2",
+        "title": "Pocketchange",
         "author": "Hunter Chang",
         "description": "A Gatsby.js V2 Starter based on Dimension by HTML5 UP"
       },
       "port": 8000,
       "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
       "buildTime": "2019-04-07T03:09:34.862Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "34d2436087c9244ff7cecfec0f0cf59e",
+        "contentDigest": "ccdbde27863e5dac64521d845e5941ba",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -832,6 +830,90 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /wallet/": {
+      "jsonName": "wallet-2ec",
+      "internalComponentName": "ComponentWallet",
+      "path": "/wallet/",
+      "component": "/Users/k/pocketchange/src/pages/wallet.js",
+      "componentChunkName": "component---src-pages-wallet-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "8e00b9dd-fdc4-5f29-80a8-5242457bd428",
+      "pluginCreatorId": "8e00b9dd-fdc4-5f29-80a8-5242457bd428",
+      "componentPath": "/Users/k/pocketchange/src/pages/wallet.js",
+      "id": "SitePage /wallet/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9a6deb60fef90ed54ae2e88bb6ff8779",
+        "description": "8e00b9dd-fdc4-5f29-80a8-5242457bd428",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /library/": {
+      "jsonName": "library-2cd",
+      "internalComponentName": "ComponentLibrary",
+      "path": "/library/",
+      "component": "/Users/k/pocketchange/src/pages/library.js",
+      "componentChunkName": "component---src-pages-library-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "8e00b9dd-fdc4-5f29-80a8-5242457bd428",
+      "pluginCreatorId": "8e00b9dd-fdc4-5f29-80a8-5242457bd428",
+      "componentPath": "/Users/k/pocketchange/src/pages/library.js",
+      "id": "SitePage /library/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e911da43ab7092db676ddaaf2db1b387",
+        "description": "8e00b9dd-fdc4-5f29-80a8-5242457bd428",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/k/pocketchange/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "8e00b9dd-fdc4-5f29-80a8-5242457bd428",
+      "pluginCreatorId": "8e00b9dd-fdc4-5f29-80a8-5242457bd428",
+      "componentPath": "/Users/k/pocketchange/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b33afd70d28ea7181a6a5cb788c213b8",
+        "description": "8e00b9dd-fdc4-5f29-80a8-5242457bd428",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /updates/": {
+      "jsonName": "updates-ba8",
+      "internalComponentName": "ComponentUpdates",
+      "path": "/updates/",
+      "component": "/Users/k/pocketchange/src/pages/updates.js",
+      "componentChunkName": "component---src-pages-updates-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "8e00b9dd-fdc4-5f29-80a8-5242457bd428",
+      "pluginCreatorId": "8e00b9dd-fdc4-5f29-80a8-5242457bd428",
+      "componentPath": "/Users/k/pocketchange/src/pages/updates.js",
+      "id": "SitePage /updates/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9052049436e2bf7c1b3c9cde704bf602",
+        "description": "8e00b9dd-fdc4-5f29-80a8-5242457bd428",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -852,7 +934,11 @@
     "page-2-fbc": "726/path---page-2-fbc-5a8-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "dev-404-page-5f9": "386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "404-22d": "820/path---404-22-d-bce-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8"
+    "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "wallet-2ec": "347/path---wallet-2-ec-00f-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "library-2cd": "636/path---library-2-cd-656-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "about-f34": "708/path---about-f-34-4c2-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "updates-ba8": "35/path---updates-ba-8-764-0SUcWyAf8ecbYDsMhQkEfPzV8"
   },
   "components": {
     "/Users/k/pocketchange/.cache/dev-404-page.js": {
@@ -861,7 +947,7 @@
       "pages": [
         "/dev-404-page/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/k/pocketchange/src/pages/404.js": {
       "componentPath": "/Users/k/pocketchange/src/pages/404.js",
@@ -870,7 +956,7 @@
         "/404/",
         "/404.html"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/k/pocketchange/src/pages/index.js": {
       "componentPath": "/Users/k/pocketchange/src/pages/index.js",
@@ -878,7 +964,7 @@
       "pages": [
         "/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/k/pocketchange/src/pages/page-2.js": {
       "componentPath": "/Users/k/pocketchange/src/pages/page-2.js",
@@ -886,7 +972,39 @@
       "pages": [
         "/page-2/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
+    },
+    "/Users/k/pocketchange/src/pages/wallet.js": {
+      "componentPath": "/Users/k/pocketchange/src/pages/wallet.js",
+      "query": "",
+      "pages": [
+        "/wallet/"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/k/pocketchange/src/pages/library.js": {
+      "componentPath": "/Users/k/pocketchange/src/pages/library.js",
+      "query": "",
+      "pages": [
+        "/library/"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/k/pocketchange/src/pages/about.js": {
+      "componentPath": "/Users/k/pocketchange/src/pages/about.js",
+      "query": "",
+      "pages": [
+        "/about/"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/k/pocketchange/src/pages/updates.js": {
+      "componentPath": "/Users/k/pocketchange/src/pages/updates.js",
+      "query": "",
+      "pages": [
+        "/updates/"
+      ],
+      "isInBootstrap": false
     }
   },
   "staticQueryComponents": {
