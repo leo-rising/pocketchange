@@ -1,7 +1,9 @@
 # Pocketchange
-**Make a change with your change.**
+_Round up your purchases. Save your change. Invest in others. **Make a change with your change.**_
 
-_Spare your change. Save your savings. Invest in others._
+<br>
+A microfinance platform that helps individuals make microinvestments in others.
+<br>
 
 <br>
 <br>
