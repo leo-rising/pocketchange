@@ -1,6 +1,5 @@
 # Pocketchange
-
-_ Spare your change. Save your savings. Invest in others. _
+## _Spare your change. Save your savings. Invest in others._
 
 
 Built with Gatsby.js, Node.js, React.js, HTML5, CSS, and love.
