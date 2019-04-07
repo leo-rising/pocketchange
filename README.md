@@ -20,6 +20,7 @@ This web app would not be possible without the following open-source resources:
 <br>
 
 ## Installation
+Assuming gatsby-cli and ngrok are already installed on host machine:
 
 1. Run `gatsby develop` in the terminal to start the dev site.
 2. Run `./ngrok http 8000` to tunnel localhost 8000 to the external network.
