@@ -1,19 +1,27 @@
-# gatsby-starter-dimension
+# Pocketchange
+_Balance your purchases. Consolidate spare change. Invest in others. **Make a change with your change.**_
 
-**This is a starter for Gatsby.js V2.**
+<br>
+A platform to help individuals make microinvestments in charitable causes.
+<br>
 
-**The older V1 version of this starter can be found on the v1 branch:**
+<br>
+<br>
 
-Gatsby.js V2 starter based on the Dimension site template, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters/ for more Gatsby starters and templates.
+Built with Gatsby.js, Node.js, React.js, HTML5, CSS, and love.
 
-## Preview
 
-https://gatsby-dimension.surge.sh/
+This web app would not be possible without the following open-source resources:
+- Dimension (Gatsby starter) from @codebushi
+- Forty (Gatsby starter) from @codebushi
+- Casper (Gatsby starter) from @scttcper
+
+
+<br>
 
 ## Installation
+Assuming gatsby-cli and ngrok are already installed on host machine:
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-<br/>
-`gatsby new gatsby-starter-dimension https://github.com/codebushi/gatsby-starter-dimension`
-
-Run `gatsby develop` in the terminal to start the dev site.
+1. Run `gatsby develop` in the terminal to start the dev site.
+2. Run `./ngrok http 8000` to tunnel localhost 8000 to the external network.
+3. Connect to the unique ngrok.io URL from any device, and enjoy!
