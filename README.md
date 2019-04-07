@@ -18,6 +18,7 @@ This web app would not be possible without the following open-source resources:
 
 
 <br>
+
 ## Installation
 
 1. Run `gatsby develop` in the terminal to start the dev site.
